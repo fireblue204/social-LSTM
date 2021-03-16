@@ -1,0 +1,15 @@
+{
+  "input_dim": 2,
+  "hidden_dim": 128,
+  "output_dim": 5,
+  "input_mid_dim": 64,
+  "grid_cell_size": 8,
+  "grid_size": 32,
+  "ped_num":100,
+  "obs_len": 8,
+  "pred_len": 12,
+  "seq_len": 20,
+  "batch_size": 2,
+  "img_width": 720,
+  "img_height": 576
+}
